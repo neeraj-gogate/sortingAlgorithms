@@ -1,0 +1,21 @@
+Sort Name, Date & Time, Run Number, Branch Name, Git Hash, Command, Text File Name, Word Count, File Type, Execution Time (s), Average Time (s)
+Bubble-Sort,10/09/22 21:14:58,1,main,REDO,time ./main < wordLists/ordered-10e0.txt > /dev/null, ordered-10e0.txt,1,ordered,0.004
+Bubble-Sort,10/09/22 21:14:58,2,main,REDO,time ./main < wordLists/ordered-10e0.txt > /dev/null, ordered-10e0.txt,1,ordered,0.004
+Bubble-Sort,10/09/22 21:14:58,3,main,REDO,time ./main < wordLists/ordered-10e0.txt > /dev/null, ordered-10e0.txt,1,ordered,0.003
+Bubble-Sort,10/09/22 21:14:58,4,main,REDO,time ./main < wordLists/ordered-10e0.txt > /dev/null, ordered-10e0.txt,1,ordered,0.004
+Bubble-Sort,10/09/22 21:14:58,5,main,REDO,time ./main < wordLists/ordered-10e0.txt > /dev/null, ordered-10e0.txt,1,ordered,0.003
+Bubble-Sort,10/09/22 21:14:58,1,main,REDO,time ./main < wordLists/ordered-10e1.txt > /dev/null, ordered-10e1.txt,10,ordered,0.003
+Bubble-Sort,10/09/22 21:14:58,2,main,REDO,time ./main < wordLists/ordered-10e1.txt > /dev/null, ordered-10e1.txt,10,ordered,0.004
+Bubble-Sort,10/09/22 21:14:58,3,main,REDO,time ./main < wordLists/ordered-10e1.txt > /dev/null, ordered-10e1.txt,10,ordered,0.003
+Bubble-Sort,10/09/22 21:14:58,4,main,REDO,time ./main < wordLists/ordered-10e1.txt > /dev/null, ordered-10e1.txt,10,ordered,0.003
+Bubble-Sort,10/09/22 21:14:58,5,main,REDO,time ./main < wordLists/ordered-10e1.txt > /dev/null, ordered-10e1.txt,10,ordered,0.003
+Bubble-Sort,10/09/22 21:14:58,1,main,REDO,time ./main < wordLists/ordered-10e2.txt > /dev/null, ordered-10e2.txt,100,ordered,0.004
+Bubble-Sort,10/09/22 21:14:58,2,main,REDO,time ./main < wordLists/ordered-10e2.txt > /dev/null, ordered-10e2.txt,100,ordered,0.004
+Bubble-Sort,10/09/22 21:14:58,3,main,REDO,time ./main < wordLists/ordered-10e2.txt > /dev/null, ordered-10e2.txt,100,ordered,0.004
+Bubble-Sort,10/09/22 21:14:58,4,main,REDO,time ./main < wordLists/ordered-10e2.txt > /dev/null, ordered-10e2.txt,100,ordered,0.004
+Bubble-Sort,10/09/22 21:14:58,5,main,REDO,time ./main < wordLists/ordered-10e2.txt > /dev/null, ordered-10e2.txt,100,ordered,0.004
+Bubble-Sort,10/09/22 21:14:58,1,main,REDO,time ./main < wordLists/ordered-10e3.txt > /dev/null, ordered-10e3.txt,1000,ordered,0.028
+Bubble-Sort,10/09/22 21:14:58,2,main,REDO,time ./main < wordLists/ordered-10e3.txt > /dev/null, ordered-10e3.txt,1000,ordered,0.028
+Bubble-Sort,10/09/22 21:14:58,3,main,REDO,time ./main < wordLists/ordered-10e3.txt > /dev/null, ordered-10e3.txt,1000,ordered,0.028
+Bubble-Sort,10/09/22 21:14:58,4,main,REDO,time ./main < wordLists/ordered-10e3.txt > /dev/null, ordered-10e3.txt,1000,ordered,0.028
+Bubble-Sort,10/09/22 21:14:58,5,main,REDO,time ./main < wordLists/ordered-10e3.txt > /dev/null, ordered-10e3.txt,1000,ordered,0.027
