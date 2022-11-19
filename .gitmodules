@@ -1,0 +1,12 @@
+[submodule "QuickSort"]
+	path = QuickSort
+	url = git@github.com:neeraj-gogate/Quick-Sort.git
+[submodule "BubbleSort"]
+	path = BubbleSort
+	url = git@github.com:neeraj-gogate/Bubble-Sort.git
+[submodule "InsertionSort"]
+	path = InsertionSort
+	url = git@github.com:neeraj-gogate/Insertion-Sort.git
+[submodule "SelectionSort"]
+	path = SelectionSort
+	url = git@github.com:neeraj-gogate/Selection-Sort.git
