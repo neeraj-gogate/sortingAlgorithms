@@ -10,3 +10,6 @@
 [submodule "SelectionSort"]
 	path = SelectionSort
 	url = git@github.com:neeraj-gogate/Selection-Sort.git
+[submodule "MergeSort"]
+	path = MergeSort
+	url = https://github.com/neeraj-gogate/MergeSort
